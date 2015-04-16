@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi! I'm Sonya a Fullstack Ed Dev in the making!
+Hi there! I'm Sonya, a Fullstack Ed Dev in the making!
 
 ### More Information
 
