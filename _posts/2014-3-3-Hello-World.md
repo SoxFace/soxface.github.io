@@ -1,9 +1,13 @@
 ---
 layout: post
-title: You're up and running!
+title: jekyll blogging via Github
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+I've just setup [Jekyll Now repository](https://github.com/barryclark/jekyll-now). Why?
+
+- keep track of all my code learning
+- learn markdown
+- git commit LIKE A BOSS
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
