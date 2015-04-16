@@ -9,7 +9,7 @@ name: Sonya Corcoran
 description: Full Stack 'Educational' Dev from Sydney
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/sox-logo.png
+avatar: /images/sox-logo.png
 
 #
 # Flags below are optional
