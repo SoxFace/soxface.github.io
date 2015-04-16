@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! I'm Sonya a Fullstack Ed Dev in the making!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I've just completed a 12 week WebDev Bootcamp with General Assembly. 12 weeks of coding all day and all night. You can check out my portfolio.
+
+Take to me about EdTech, Health and Roller Derby.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sonyacorcoran@gmail.com](mailto:sonyacorcoran@gmail.com)
