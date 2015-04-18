@@ -23,8 +23,8 @@ Basically...a whole new world of interesting. Hopefully, collaborating will lead
 In other news, these two commands were super helpful tonight:
 
 ```
-brew install sphinx
+$ brew install sphinx
 ```
 ```
-git remote rm origin
+$ git remote rm origin
 ```
