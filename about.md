@@ -12,4 +12,6 @@ I've just completed a 12 Week WebDev Bootcamp with [General Assembly](https://ge
 
 Check out my [P O R T F O L I O](http://soxface.github.io/portfolio).
 
+### Contact me
+
 Feel free to tweet me about EdTech, Health, Roller Derby and Code.
