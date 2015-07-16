@@ -1,12 +1,9 @@
 # Site navigation links
 
-- title: GA Projects
+- title: Portfolio
   url: /portfolio/
   excerpt: "All i want to do is drink coffee, create stuff and sleep."
   image: bio-photo.jpg
-  title: FHS DataVis
-  url: http://soxface.github.io/fhs-datavis
-  title: FHS Learning Comparison
-  url: http://soxface.github.io/fhs-learning-comparison
-  title: Aus Men Derby Playing Cards
-  url: http://soxface.github.io/wizards_of_aus
+
+- title: Github
+  url: http://github.com/soxface
