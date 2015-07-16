@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "Sonya Corcoran"
 ---
 
 <div class="tiles">
