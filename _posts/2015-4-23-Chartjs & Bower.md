@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Chartjs & Bower
+image:
+  teaser: d3.png
 ---
 
 I've been dabbling with [Chartjs](http://www.chartjs.org/) for an upcoming project in work.

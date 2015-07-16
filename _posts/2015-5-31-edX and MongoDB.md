@@ -1,6 +1,8 @@
 ---
 layout: post
 title: edX & MongoDB
+image:
+  teaser: edx.png
 ---
 
 How did a whole month fly by without posting!?! Who knows...

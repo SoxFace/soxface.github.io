@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Creating Liquid HTML
+image:
+  teaser: liquid.png
 ---
 
 Working at the University of Sydney has many, many, MANY perks. The sheer quality of people you work with day in, day out is one of these many perks. One such wonder is [Abelardo Pardo](http://abelardopardo.blogspot.com.au/).
