@@ -2,8 +2,7 @@
 layout: post
 title: jekyll blogging via Github
 image:
-  teaser: jekyll-logo.png
-  feature: jekyll-logo.png
+  teaser: jekyll.png
 ---
 
 I've just setup [Jekyll Now repository](https://github.com/barryclark/jekyll-now). Why?
