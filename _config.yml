@@ -21,10 +21,10 @@ gems:
 
 
 # Site owner
-owner: Sonya Corcoran
-  name: Sonya Corcoran
+owner:
+  name:
   email:
-  twitter: @soxyface
+  twitter:
   google:
     ad-client: 
     ad-slot: 
