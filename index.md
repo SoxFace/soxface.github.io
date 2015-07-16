@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Sonya Corcoran"
+title: "Blog"
 ---
 
 <div class="tiles">
