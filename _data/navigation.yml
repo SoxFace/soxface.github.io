@@ -5,14 +5,14 @@
   excerpt: "All i want to do is drink coffee, create stuff and sleep"
   image: bio-photo.jpg
 
-- title: FHS DataVis
-  url: soxface.github.io/fhs-datavis
+  - title: FHS DataVis
+    url: /fhs-datavis
 
-- tite: FHS Learning Comparison
-  url: soxface.github.io/fhs-learning-comparison
+  - tite: FHS Learning Comparison
+    url: /fhs-learning-comparison
 
-- title: Aus Men Derby Playing Cards
-  url: soxface.github.io/wizards_of_aus
+  - title: Aus Men Derby Playing Cards
+    url: /wizards_of_aus
 
-- title: GA Portfolio
-  url: soxface.github.io/portfolio
+  - title: GA Portfolio
+    url: /portfolio
