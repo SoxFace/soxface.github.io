@@ -3,9 +3,9 @@
 title: Sonya Corcoran
 description: Full Stack 'Ed' Dev from Sydney
 logo: bio-photo.jpg # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
+teaser: 400x250.gif # 400x250 px default teaser image used in image archive grid
 locale:
-url: soxface.github.io
+url: //soxface.github.io
 
 # Jekyll configuration
 
@@ -24,11 +24,11 @@ gems:
 owner:
   name:
   email:
-  twitter:
+  twitter: soxyface
   google:
     ad-client: 
     ad-slot: 
-  bio: 
+  bio: Full Stack 'Ed' Dev from Sydney
   avatar: bio-photo.jpg # 160x160 px image for author byline
 disqus-shortname:
 

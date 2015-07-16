@@ -1,6 +1,6 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: Blog
+  url: /blog/
+  excerpt: "Thinkathon code and blog"
+  image: bio-photo.jpg
