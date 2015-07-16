@@ -8,3 +8,7 @@
 - title: DataVis
   url: '/fhs-datavis/'
   excerpt: "D3ing Data."
+
+- title: About
+  url: '/about'
+  excerpt: "You know me..."

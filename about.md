@@ -1,37 +1,17 @@
----
+--
 layout: article
-permalink: /about
-title: "About"
+title: About
+permalink: /about/
 ---
 
-<div id="main" role="main">
-  <article class="wrap" itemscope itemtype="http://schema.org/Article">
-    {% if page.image.feature %}
-    <div class="page-feature">
-      <div class="page-image">
-        <img src="{{ site.url }}/images/{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image">
-        {% if page.image.credit %}{% include image-credit.html %}{% endif %}
-      </div><!-- /.page-image -->
-    </div><!-- /.page-feature -->
-    {% endif %}
-    {% include breadcrumbs.html %}
-    <div class="page-title">
-      <h1>{{ page.title }}</h1>
-    </div>
-    <div class="inner-wrap">
-      <div id="content" class="page-content" itemprop="articleBody">
-        {{ content }}
-        <hr />
-        <footer class="page-footer">
-          {% if page.categories %}{% include page-author.html %}{% endif %}
-          {% if page.share != false %}{% include share-this.html %}{% endif %}
-          {% include page-meta.html %}
-        </footer><!-- /.footer -->
-        <aside>
-          {% if page.comments == true %}{% include comments.html %}{% endif %}
-        </aside>
-      </div><!-- /.content -->
-    </div><!-- /.inner-wrap -->
-    {% if page.ads == true %}<div class="ads">{% include advertising.html %}</div><!-- /.ads -->{% endif %}
-  </article><!-- ./wrap -->
-</div><!-- /#main -->
+Hi there! I'm Sonya (aka Sox), a Fullstack Ed. Dev. in the making!
+
+### More Information
+
+I've just completed a 12 Week WebDev Bootcamp with [General Assembly](https://generalassemb.ly/education/web-development-immersive). 12 weeks of coding all day and all night using Ruby, Rails, Sinatra, Javascript, Backbone, jQuery, CSS3 and HTML5. 
+
+Check out my [P O R T F O L I O](http://soxface.github.io/portfolio).
+
+### Contact me
+
+Feel free to tweet me about EdTech, Health, Roller Derby and Code.
